@@ -1,4 +1,43 @@
-# CursoAngularPortfolio
+# Portfólio em Angular
+
+## Sobre o Projeto
+
+Este projeto foi desenvolvido durante a quarta semana de capacitação da área de Projetos Desktop da Asimov Jr. com o objetivo de introduzir os conceitos fundamentais do framework Angular e aplicar os conhecimentos adquiridos na construção de uma aplicação web.
+
+O projeto consiste em um portfólio pessoal, desenvolvido utilizando Angular, para apresentar informações profissionais, habilidades, experiências e projetos de forma organizada e dinâmica.
+
+## Objetivos
+
+* Compreender os conceitos básicos do Angular;
+* Aprender a estrutura de um projeto Angular;
+* Utilizar componentes para modularizar a aplicação;
+* Aplicar conceitos de HTML, CSS e TypeScript no desenvolvimento front-end;
+* Desenvolver uma interface moderna e responsiva.
+
+## Tecnologias Utilizadas
+
+* Angular
+* TypeScript
+* HTML5
+* CSS3
+
+## Funcionalidades
+
+* Apresentação pessoal;
+* Exibição de habilidades e competências;
+* Seção de experiências e projetos;
+* Layout responsivo para diferentes dispositivos;
+* Estrutura baseada em componentes Angular.
+
+## Aprendizados
+
+Durante o desenvolvimento deste projeto, foram explorados conceitos importantes do Angular, como:
+
+* Criação e organização de componentes;
+* Data Binding;
+* Estruturação de aplicações SPA (Single Page Application);
+* Organização de código e boas práticas de desenvolvimento.
+
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.0.3.
 
